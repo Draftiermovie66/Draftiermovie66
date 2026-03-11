@@ -29,7 +29,7 @@
 Project	Description
 🌍 Devil SMP	Minecraft server & community: https://devilsmp.nl
 💼 Portfolio	Personal website: https://draft.devilsmp.nl
-diff´´´
+```diff
 
 📚 Currently Learning
 <p align="center"> <img src="https://skillicons.dev/icons?i=nextjs,java,ts,nodejs" /> </p>
