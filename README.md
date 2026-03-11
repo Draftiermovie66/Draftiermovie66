@@ -17,11 +17,6 @@
 # 🚀 About Me
 
 ```diff
-+ Minecraft Developer
-+ Next.js Learner
-+ Launcher Developer
-+ Web Developer
-
 🌍 Based in the Netherlands
 
 💻 Working on Minecraft & Web projects
@@ -34,6 +29,7 @@
 Project	Description
 🌍 Devil SMP	Minecraft server & community: https://devilsmp.nl
 💼 Portfolio	Personal website: https://draft.devilsmp.nl
+diff```
 
 📚 Currently Learning
 <p align="center"> <img src="https://skillicons.dev/icons?i=nextjs,java,ts,nodejs" /> </p>
@@ -45,11 +41,6 @@ Java
 TypeScript
 
 Node.js
-
-✍️ Blog
-
-📰 Articles:
-https://devilsmp.nl/blog
 
 🌐 Connect With Me
 <p align="center"> <a href="https://www.youtube.com/c/draftiermovie66"> <img src="https://skillicons.dev/icons?i=youtube" height="50"/> </a> </p>
