@@ -32,14 +32,8 @@
 
 🔥 Current Projects
 Project	Description
-🌍 Devil SMP	Minecraft server & community
-💼 Portfolio	Personal website
-🚀 CAN Launcher	Minecraft launcher
-Links
-
-🌍 https://devilsmp.nl
-
-💼 https://draft.devilsmp.nl
+🌍 Devil SMP	Minecraft server & community: https://devilsmp.nl
+💼 Portfolio	Personal website: https://draft.devilsmp.nl
 
 📚 Currently Learning
 <p align="center"> <img src="https://skillicons.dev/icons?i=nextjs,java,ts,nodejs" /> </p>
