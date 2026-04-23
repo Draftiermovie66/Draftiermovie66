@@ -24,7 +24,12 @@
 
 🧠 Always improving my coding skills
 
-🔥 Current Projects
-Project	Description
-🌍 Devil SMP	Minecraft server & community: https://devilsmp.nl
-💼 Portfolio	Personal website: https://draft.devilsmp.nl
+---
+
+# 🔥 Current Projects
+
+🌍 Devil SMP: https://devilsmp.nl
+
+🌍 FunGames: https://fungames.devilsmp.nl
+
+💼 Portfolio: https://draft.devilsmp.nl
